@@ -1,6 +1,8 @@
+Vi 5-printf.c
+
 #include <stdio.h>
 /**
- *  * main-entry point for the program.
+ *  * main - Entry point for the program.
  *   *
  *    * Return:0 if no errors, return non zero if errors
  *     */
